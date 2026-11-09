@@ -1,0 +1,14 @@
+{
+  "template": "{project}_{content}_{device}_{seq:03d}_{date}__{original}",
+  "project": "",
+  "device": "",
+  "date": "",
+  "start": 1,
+  "keep_seq": true,
+  "model": "qwen3-vl:4b-instruct",
+  "models_dir": "models",
+  "port": 11435,
+  "appearance": "system",
+  "output_mode": "original",
+  "output_dir": ""
+}

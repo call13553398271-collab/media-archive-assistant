@@ -1,0 +1,22 @@
+[
+  {
+    "name": "qwen3-vl-4b-models.zip.001",
+    "size": 1000000000,
+    "sha256": "00e86564c98a4100e0b7c09e9fb4a4c475b43951a40b432790da805861b56ec7"
+  },
+  {
+    "name": "qwen3-vl-4b-models.zip.002",
+    "size": 1000000000,
+    "sha256": "927dcff6371b7e278d5a15231a7a731a3050b0319610675b3150f68baeb78f5a"
+  },
+  {
+    "name": "qwen3-vl-4b-models.zip.003",
+    "size": 1000000000,
+    "sha256": "d4e7b77374b55effb290c9b7e85029276bb7f76e5187ac8f4d159eb0fad11529"
+  },
+  {
+    "name": "qwen3-vl-4b-models.zip.004",
+    "size": 337228520,
+    "sha256": "a4a65a739a9f301e438008767a2a9dd76ee16427d9b9cc61306c17d3a3ccf219"
+  }
+]
